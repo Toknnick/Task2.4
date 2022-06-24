@@ -12,11 +12,15 @@ namespace Task2._4
         {
             Random random = new Random();
             int sumOfNumbers = 0;
-            int numberFromRandom = random.Next(0, 100);
+            int maxValue = 100;
+            int minValue = 0;
+            int multipleOfThree = 3;
+            int multipleOfFive = 5;
+            int numberFromRandom = random.Next(minValue, maxValue);
 
             for (int i = 0; i < numberFromRandom; i++)
             {
-                if(i % 3 == 0 || i % 5 == 0)
+                if(i % multipleOfThree == 0 || i % multipleOfFive == 0)
                 {
                     sumOfNumbers += i;
                 }
