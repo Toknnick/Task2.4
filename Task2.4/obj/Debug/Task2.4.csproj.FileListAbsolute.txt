@@ -1,0 +1,6 @@
+C:\Users\Максим\Desktop\Unity\Task2.4\Task2.4\bin\Debug\Task2.4.exe.config
+C:\Users\Максим\Desktop\Unity\Task2.4\Task2.4\bin\Debug\Task2.4.exe
+C:\Users\Максим\Desktop\Unity\Task2.4\Task2.4\bin\Debug\Task2.4.pdb
+C:\Users\Максим\Desktop\Unity\Task2.4\Task2.4\obj\Debug\Task2.4.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Unity\Task2.4\Task2.4\obj\Debug\Task2.4.exe
+C:\Users\Максим\Desktop\Unity\Task2.4\Task2.4\obj\Debug\Task2.4.pdb
