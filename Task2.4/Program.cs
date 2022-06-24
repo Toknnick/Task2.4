@@ -14,13 +14,13 @@ namespace Task2._4
             int sumOfNumbers = 0;
             int maxValue = 100;
             int minValue = 0;
-            int multipleOfThree = 3;
-            int multipleOfFive = 5;
+            int firstMultipicity = 3;
+            int secondMultipicity = 5;
             int numberFromRandom = random.Next(minValue, maxValue);
 
             for (int i = 0; i < numberFromRandom; i++)
             {
-                if(i % multipleOfThree == 0 || i % multipleOfFive == 0)
+                if(i % firstMultipicity == 0 || i % secondMultipicity == 0)
                 {
                     sumOfNumbers += i;
                 }
